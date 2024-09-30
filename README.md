@@ -1,4 +1,4 @@
-# ✚ Fomulario registro usuario
+# ✚ Formulario registro usuario
 ## 1. 🎯 Objetivo del Proyecto
 
 El proyecto consiste en la creación de un formulario de registro de usuarios interactivo que permita validar los datos ingresados por los usuarios antes de su envío. Se parte de una base proporcionada en la rama main de un repositorio, y el objetivo principal es implementar validaciones mediante JavaScript para garantizar que los usuarios ingresen información correcta y completa.
