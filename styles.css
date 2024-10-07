@@ -57,8 +57,10 @@
     text-align: end;
 
 }
-.row input{
+.rowInput{
     background-color: beige;
+    color: black;
+    text-align: center;
     border: 1px solid #333;
     border-radius: 10%;
     height: 20px;
@@ -75,4 +77,10 @@
     border-radius: 15%;
     color: beige;
     
+}
+.inputError{
+    border: 2px solid red;
+}
+.inputOK{
+    border: 2px solid green;
 }
